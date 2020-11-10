@@ -21,7 +21,7 @@ for i in record:
     ans_list.append(ans)
 
 x = np.asarray(range(len(ans_list)))
-label = [i for i in range(1, len(ans_list) + 1)]
+label = list(range(1, len(ans_list)+1))
 plt.bar(x, ans_list)
 plt.xticks(x, label)
 plt.show()

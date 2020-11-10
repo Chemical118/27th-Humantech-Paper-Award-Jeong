@@ -1,0 +1,46 @@
+LOCUS       CM008976                2000 bp    DNA              UNK 01-JAN-1980
+DEFINITION  Chlamydomonas reinhardtii strain CC-503 cw92 mt+ chromosome 15,
+            whole genome shotgun sequence.
+ACCESSION   CM008976
+VERSION     CM008976.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 caggccgcca gcaccaaggt gggcgcccca acccccgccc cctccacgcg acccacccgc
+       61 cccgcccacc tccgcactgc ctgcacccca ccccataccc acaaccccag actaacaccg
+      121 gccaacccca ctcgccccct ccacacagat gcctccggcg ccgccgccac cgcccgcacc
+      181 gtcgacgagc accaagcagg tacgacacac cagaccgctg aaagacgccg catgcccccc
+      241 gccctacatg tgtcaccgac ctgccccaaa tgtccccgca tccatcatgc cccaccttac
+      301 gcccccacgc cagcagcgac gatgtccagc cccgcccgcc ctccccatgc agacgccgaa
+      361 gaacccgccg gcgccagctg cacccctggc gccaccggtg acgcaggggc agacaacact
+      421 gccgccgccc gcgggagagc aggtacaaag tatcagaccg cataccgctg caacctaccc
+      481 ccagtcccct aaccacaatg gacctgtccc aacaacaccc gcccaaccca ccaacccaaa
+      541 ccccccagga gcgccagtcg aaacgccaag ccgtcgaagg cgccggccac ggagccgacc
+      601 tcatggacac cggcaggacc cagagccccg aacgatgaca gccacctgtg ccgacaggga
+      661 ctagctaatc ctgatgtctg caagctccca ctagcaggcc ctttaattaa cgtggaagca
+      721 gtagtcacgc atgctcgcac acatgaatgg atggtggtga atgaagtgag cagacctggt
+      781 ggcttaggtg ctcggagaag gaagctagac aaagtagacg cacgtatggg gacaacagga
+      841 acagtttggc ttgatgatac gagagggtgg caaaatgtca acagaagctg tgaggcagaa
+      901 gcacggcaca ggacgcgcaa actgggctgg cacgaggcgc acgaggccta cattagtgga
+      961 actagtcccg acatggagac aaatagaacg aatggctaca atgcagccac aggcggcaga
+     1021 ggctggaagg agtggaggca acacgaggga ggagcacgca aggagagctg gctaagaccc
+     1081 caggaaggag aacgggacct gccgacccac gccgccacct gtatcaaacc tgcaacaccc
+     1141 aacaacacat tgaccacacc cgggaagagg catgggctag cgcactgtgc caacacaata
+     1201 gcgagaattg cagccgggat tgcagctaca gcactcatga gatacatgta cagcgcccac
+     1261 ccaactcctg catcggccca cacggaaaac cggcatgccg gcagcaagag caaccgcctc
+     1321 aaatccacca caccagttgt ccgagcaacg cacctccatg agaaacaaca cgacaaccgc
+     1381 tcctgcctca tacacgcaat caacaacctg cttgggaaac gccttctcac acccgccact
+     1441 gtctacgccg aatgggcgcg aggatcgcag cacctccacc gcaactcccc ggcttcaaca
+     1501 cccacatggg cgacctacct aacaaccaac aacatcgact acggcctcat aaaccactgc
+     1561 ctcaaagcta ccacctgttc ccccctgcca ggcctaccct acgtccaact cacggcatgc
+     1621 tcgtaccatg gcggcctcaa ccaacacgaa gcactcaacg ccattccctc cgaatcccgc
+     1681 cacatcggct ttattcttat ccacggcggc catgcccgaa ctgtgaaaca cgcaaacggc
+     1741 cgctggtggc tacacgactc caacgcaaaa cgcgccatcc ccctcacgaa cgccaacaca
+     1801 gcacagccgg gatactaccg atgggcggat ctggggcgcg gcctcgccct aaccctcact
+     1861 tacacacgac accccgaaat atcaaccaac ttcaacatcc gggacatccc gccaaccagc
+     1921 ccccccacca cccgcatcac cctctcacac gagggcatac gcatcacccc tgtccgcacc
+     1981 aatgaggaaa cccgcccaca
+//
