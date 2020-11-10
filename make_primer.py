@@ -1,6 +1,8 @@
 from Bio import SeqIO
 import matplotlib.pyplot as plt
+from matplotlib import rc
 import numpy as np
+
 
 whole_chla_seq = "GCA_000002595.3_Chlamydomonas_reinhardtii_v5.5_genomic.gbff"
 only_chla_gene = "GCA_000002595.3_Chlamydomonas_reinhardtii_v5.5_genomic_chro.gbff"
@@ -22,6 +24,9 @@ for i in record:
 
 x = np.asarray(range(len(ans_list)))
 label = list(range(1, len(ans_list)+1))
+rc('font', family="NanumGothic")
 plt.bar(x, ans_list)
 plt.xticks(x, label)
+plt.xlabel("염색체 순서")
+plt.ylabel("DNA 길이 (bp)")
 plt.show()
